@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Bus_ISA_8bit_AB_Rev0")(type "Legacy")(uri "C:/Users/chadr/Downloads/Voltage Blaster/Symbols/Bus_ISA_8bit_AB/Bus_ISA_8bit_AB_Rev0.lib")(options "")(descr ""))
+)

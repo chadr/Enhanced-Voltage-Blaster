@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ISA_Card_Edge_Connector_8bit")(type "KiCad")(uri "C:/Users/chadr/Downloads/Voltage Blaster/Footprints/ISA_Card_Edge_Connector_8bit")(options "")(descr ""))
+)
