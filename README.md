@@ -1,6 +1,8 @@
 # Enhanced Voltage Blaster
  A (slightly) enhanced version of the original Voltage Blaster by PhilsComputerLab and Necroware [here](https://youtu.be/y1-0giyLQIY).
 
+![Finished Voltage Blaster](https://github.com/chadr/Enhanced-Voltage-Blaster/blob/main/img/blaster.jpg?raw=true)
+
 **Enhancements:**
 * Diodes protect regulator from reverse polarity and reverse bias. Prevents soundcard-frying over voltage.
 * Four LEDs show presence of the four main power rails on the ISA bus.
