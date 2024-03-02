@@ -12,6 +12,7 @@
 The datasheet for the 79xx series negative regulators strongly recommend two protection diodes. PCs get shutdown suddenly and sound cards have lots of capacitance. The exact two situations described here.
 ![Protection diode info](https://github.com/chadr/Enhanced-Voltage-Blaster/blob/main/img/protection_diodes.jpg?raw=true)
 
+**Bill of Materials**
 **Item**|**Qty**|**MFG Part Num**|**Mouser Part Num**
 :-----:|:-----:|:-----:|:-----:
 Neg 5V Linear Regulator|1|MC79M05CDT|863-MC79M05CDT
