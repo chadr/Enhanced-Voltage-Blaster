@@ -9,6 +9,8 @@
 * Dual copper heatsink pads embedded into PCB design to keep regulator cool.
 * Jumper to disable Voltage Blaster without removal. Can be used to verify lack of (-)5V on ISA bus.
 
+The datasheet for the 79xx series negative regulators strongly recommend two protection diodes. PCs get shutdown suddenly and sound cards have lots of capacitance. The exact two situations described here.
+![Protection diode info](https://github.com/chadr/Enhanced-Voltage-Blaster/blob/main/img/protection_diodes.jpg?raw=true)
 
 **Item**|**Qty**|**MFG Part Num**|**Mouser Part Num**
 :-----:|:-----:|:-----:|:-----:
