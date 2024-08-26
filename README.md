@@ -21,3 +21,5 @@ Neg 5V Linear Regulator|1|MC79M05CDT|863-MC79M05CDT
 330R Metal Film Resistor 1%|2|MFR-25FRF52-330R|603-MFR-25FRF52-330R
 1K Metal Film Resistor 1%|2|MFR-25FRF52-1K|603-MFR-25FRF52-1K
 Schottky Diode 40 Volt 1.0 Amp|2|SB140-E3/73|625-SB140-E3/73
+
+<a href="https://www.tindie.com/stores/pcrestoration/?ref=offsite_badges&utm_source=sellers_PCRestoration&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
